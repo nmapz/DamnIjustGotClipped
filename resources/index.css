@@ -1,0 +1,19 @@
+html {
+    background-image: url(./images/fortnite\ default\ skin.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    width: 100%;
+}
+
+.red {
+    display:flex;
+    justify-content: center;
+}
+
+.pink {
+    display: flex;
+    justify-content: space-between;
+}
